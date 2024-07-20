@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandeepdhakarwal/blog-app.git/static/css/main.ff02f4b5.css",
+    "main.js": "/sandeepdhakarwal/blog-app.git/static/js/main.fcdec2fa.js",
+    "index.html": "/sandeepdhakarwal/blog-app.git/index.html",
+    "main.ff02f4b5.css.map": "/sandeepdhakarwal/blog-app.git/static/css/main.ff02f4b5.css.map",
+    "main.fcdec2fa.js.map": "/sandeepdhakarwal/blog-app.git/static/js/main.fcdec2fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.fcdec2fa.js"
+  ]
+}
